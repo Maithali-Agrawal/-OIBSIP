@@ -1,14 +1,27 @@
-#Temperature Converter Web Application
+# OIBSIP - Oasis Infobyte Internship Tasks
 
-This is a simple, responsive **Temperature Converter** built using **HTML, CSS, and JavaScript**. It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
+This repository contains the web development tasks completed as part of the **Oasis Infobyte Internship Program**.
 
----
+🌟 Tasks Completed
 
-## 🚀 Features
+# ✅ Task 1 - Landing Page
+A responsive and modern landing page built using **HTML** and **CSS**.  
+Key features:
+- Responsive layout
+- Clean UI design
+- Navigation bar, hero section, multiple content columns, and footer
 
-- ✅ Input validation (checks for numbers)
-- 🔄 Converts from:
+📂 Files:
+- `Task1.html`
+- `Task1.css`
+
+# ✅ Task 3 - Temperature Converter Web Application
+This is a simple, responsive **Temperature Converter** built using **HTML, CSS, and JavaScript**. 
+It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
+Key features:
+- Input validation (checks for numbers)
+- Converts from:
   - Celsius → Fahrenheit & Kelvin
   - Fahrenheit → Celsius & Kelvin
   - Kelvin → Celsius & Fahrenheit
-- 🎨 Styled with a clean UI using CSS
+-  Styled with a clean UI using CSS
