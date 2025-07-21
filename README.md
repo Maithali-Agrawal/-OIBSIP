@@ -10,10 +10,17 @@ Key features:
 - Responsive layout
 - Clean UI design
 - Navigation bar, hero section, multiple content columns, and footer
-
-📂 Files:
-- `Task1.html`
-- `Task1.css`
+  
+# ✅ Task 2 - Personal Portfolio Website
+This is a simple and responsive **personal portfolio website** built using only **HTML** and **CSS**. 
+It showcases my profile, skills, resume, and contact information. This project is part of my learning journey and internship tasks under **Oasis Infobyte**.
+Key Features:
+- Clean and modern design
+- Responsive layout (mobile-friendly)
+- About Me section
+- Skills list
+- Contact information section
+- Fully static — no JavaScript required
 
 # ✅ Task 3 - Temperature Converter Web Application
 This is a simple, responsive **Temperature Converter** built using **HTML, CSS, and JavaScript**. 
